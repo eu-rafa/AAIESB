@@ -117,5 +117,6 @@ def main():
                 break
             case _:
                 print('Opção inválida.')
+# usando a variável name como o main para rodar o script
 if __name__ == "__main__":
     main()
